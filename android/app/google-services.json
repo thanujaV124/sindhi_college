@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9265510790",
+    "project_id": "sindhi-college-c982d",
+    "storage_bucket": "sindhi-college-c982d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9265510790:android:938a8ac1ce0e59994a9407",
+        "android_client_info": {
+          "package_name": "com.example.sindhi_college"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9265510790-8cq87sr3uptin74gr6v9tj51a2aq8aci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCDGAdVj6LUOgzuuhgs8B_mvc9rBFBnC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9265510790-8cq87sr3uptin74gr6v9tj51a2aq8aci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
